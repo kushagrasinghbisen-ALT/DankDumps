@@ -22,7 +22,7 @@ jobs:
 
       - name: Cloning Dumper
         run: |
-             git clone https://github.com/kushagrasinghbisen/DankDumps dumper --depth=1
+             git clone https://github.com/kushagrasinghbisen-ALT/DankDumps dumper --depth=1
 
       - name: SettingUp SSH Keys
         run: |
